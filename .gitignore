@@ -1,3 +1,4 @@
 .DS-Store
+.gitignore
 venv/*
 valuesResultsTestsListsMisc/*
