@@ -1,0 +1,8 @@
+1,Google.com
+2,Amazon.de
+3,Att.com
+4,p3p.org
+5,Ebay.de
+6,Facebook.com
+7,Wikipedia.org
+8,Yandex.ru
