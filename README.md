@@ -3,7 +3,7 @@ Scripts to (mass-)scan URLs for implementation of P3P privacy policies.
 
 With regard to the proposed W3C standard, the scripts:
 
-* scans the _'well knokwn location'_ (URL + '/w3c/p3p.xml') for a _Policy Reference File_ ('p3p.xml'). If a reference file is found, the script tries to fetch the corresponding policy and evaluates it against the standard,
+* scans the _'well known location'_ (URL + '/w3c/p3p.xml') for a _Policy Reference File_ ('p3p.xml'). If a reference file is found, the script tries to fetch the corresponding policy and evaluates it against the standard,
 * scans the HTTP headers from the main site and the _'well knokwn location'_ for the so called _Compact Policy_. If found, the validity of the policy is evaluated,
 * scans the HTML from the main site to find a _'<link rel="P3Pv1" href='_-pattern. If such link is found, the script tries to fetch the corresponding policy and evaluates the validity regarding the standard.
 
