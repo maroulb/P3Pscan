@@ -18,7 +18,7 @@ The result of a scan is a *<p3pScanReport-[name_of_URL(-List)].csv>* file that c
     -u URL: test a single URL
     file: test a list of URLs from a textfile
 
-The provide text file must contain a list of URLs, one per line. See the _testlist_ folder for examples.
+The provided text file must contain a list of URLs, one per line. See the _testlist_ folder for examples.
 
 ### Usage multi thread version (P3PscanMT.py)
 
